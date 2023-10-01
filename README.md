@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ay0rahh
 - 👀 Seeking a developer entrepreneur
 - 🌱 Are you a developer?
-- 💞️ I’m looking to collaborate on my app project. Unique opportunity with extra payments.
+- 💞️ I’m looking to collaborate on my app project. Unique opportunity with extra payments, name your price. Contract basis only!
 - 📫 Let's chat! Contact me via GitHub:ay0rahh
 
 <!---
